@@ -16,3 +16,12 @@ userName.addEventListener("keypress", function () {
     warningUserName.style.color = "green"
   }});
 ///
+if(Numbers === 2 ){
+  return true
+}else{
+  return false
+}
+
+if(lolo == 10){
+  return true
+}

@@ -17,16 +17,3 @@ userName.addEventListener("keypress", function () {
   }});
 ///
 
-if(Numbers === 2){
-  return true
-}else{
-  return false
-if(Numbers === 2 ){
-  return true
-}else{
-  return false
-}
-
-if(lolo == 10){
-  return true
-}

@@ -3,6 +3,7 @@ let passwordMessage = document.querySelector('.password-validation')
 
 let usernameInput = document.querySelector('.username')
 let passwordInput = document.querySelector('.password')
+let powname = "reihaneh"
 
 function usernameValidation () {
     // alert('username')
